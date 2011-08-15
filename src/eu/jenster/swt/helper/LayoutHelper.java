@@ -1,4 +1,4 @@
-package com.bananas.client.helper;
+package eu.jenster.swt.helper;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.Rectangle;

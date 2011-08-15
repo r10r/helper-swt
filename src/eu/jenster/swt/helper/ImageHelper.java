@@ -1,4 +1,4 @@
-package com.bananas.client.helper;
+package eu.jenster.swt.helper;
 
 import org.eclipse.swt.graphics.Image;
 import org.eclipse.swt.widgets.Display;
