@@ -1,4 +1,4 @@
-package eu.jenster.swt.helper;
+package eu.jenster.helper.swt;
 
 import org.eclipse.swt.graphics.Image;
 import org.eclipse.swt.widgets.Display;
